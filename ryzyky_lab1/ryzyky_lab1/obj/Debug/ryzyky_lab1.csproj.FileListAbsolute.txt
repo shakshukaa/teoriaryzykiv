@@ -1,0 +1,7 @@
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\bin\Debug\ryzyky_lab1.exe.config
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\bin\Debug\ryzyky_lab1.exe
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\bin\Debug\ryzyky_lab1.pdb
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\obj\Debug\ryzyky_lab1.csprojAssemblyReference.cache
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\obj\Debug\ryzyky_lab1.csproj.CoreCompileInputs.cache
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\obj\Debug\ryzyky_lab1.exe
+D:\univergavno\ryzyky_lab1\ryzyky_lab1\obj\Debug\ryzyky_lab1.pdb
