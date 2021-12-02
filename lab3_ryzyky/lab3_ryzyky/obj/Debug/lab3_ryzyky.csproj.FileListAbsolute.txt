@@ -1,0 +1,7 @@
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\bin\Debug\lab3_ryzyky.exe.config
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\bin\Debug\lab3_ryzyky.exe
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\bin\Debug\lab3_ryzyky.pdb
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\obj\Debug\lab3_ryzyky.csprojAssemblyReference.cache
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\obj\Debug\lab3_ryzyky.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\obj\Debug\lab3_ryzyky.exe
+C:\Users\Nitro\source\repos\lab3_ryzyky\lab3_ryzyky\obj\Debug\lab3_ryzyky.pdb
